@@ -52,14 +52,9 @@
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 
-<script type="text/javascript">
-$( "#result" ).hide();
-  $("a").each(Click(function(){ 
-      $( "#result" ).show();
-      $( "#result" ).append("Wank");
-    }));
-
-  
-  
+<script>
+$( "a" ).click(function() {
+  $( '#result' ).append("wank");
+});
 </script>
 </html>
