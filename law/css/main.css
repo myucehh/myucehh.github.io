@@ -1,13 +1,28 @@
 body{
-	margin: 0 auto;
+ 	margin: 0 auto;
+ 	font-family: sans-serif;
 }
 
+
 #info{
-	text-align: center;
+
+	margin-top: 300px;
 }
 
 
 #social{
 	margin: 0 auto;
 	width: 33%;
+}
+
+.kanji{
+	font-size: 2em;
+}
+
+#infoContainer{
+	margin: 0 auto;
+    width: 460px;
+    margin-left: 50%;
+    position: absolute;
+    left: -230px;
 }
