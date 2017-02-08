@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"pretest_game.html",
-  "generationDate":new Date(1486574936410.52),
+  "generationDate":new Date(1486577333634.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -50,11 +50,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":465,
-              "y":200},
+              "x":400,
+              "y":160},
             "size":{
-              "width":510,
-              "height":255}},
+              "width":210,
+              "height":340}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -66,15 +66,81 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":465,
-                  "y":200},
+                  "x":400,
+                  "y":160},
                 "size":{
-                  "width":510,
-                  "height":255}},
+                  "width":210,
+                  "height":340}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/pretest_game/u3.png"}}]}},
+            "normal~":"images/pretest_game/u3.png"}},
+{
+          "id":"b6db3e1467e54d35898d6ac254466064",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":650,
+              "y":83},
+            "size":{
+              "width":110,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5b6a292123fe44ecad13d78d3435e7de",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":650,
+                  "y":83},
+                "size":{
+                  "width":110,
+                  "height":37}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"3b40e93e4c8c4f388674c3025cb18b6c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":410,
+              "y":556},
+            "size":{
+              "width":590,
+              "height":64}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a350cbf4da8847dd8b68759af7d3bb71",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":410,
+                  "y":556},
+                "size":{
+                  "width":590,
+                  "height":64}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
     "2b6ac5b9061046788505a4ff7d7712cd":{
       "packageId":"2b6ac5b9061046788505a4ff7d7712cd",
@@ -145,4 +211,12 @@
     "ca57ab9052fa4da684bcb46abdb4b08f":{
       "scriptId":"u3"},
     "a23ca06f7c454228a3c20d9b099ed9fe":{
-      "scriptId":"u4"}}});
+      "scriptId":"u4"},
+    "b6db3e1467e54d35898d6ac254466064":{
+      "scriptId":"u5"},
+    "5b6a292123fe44ecad13d78d3435e7de":{
+      "scriptId":"u6"},
+    "3b40e93e4c8c4f388674c3025cb18b6c":{
+      "scriptId":"u7"},
+    "a350cbf4da8847dd8b68759af7d3bb71":{
+      "scriptId":"u8"}}});

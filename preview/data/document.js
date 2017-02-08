@@ -27,11 +27,7 @@
 {
             "pageName":"Start Your Journey",
             "type":"Wireframe",
-            "url":"start_your_journey.html",
-            "children":[{
-                "pageName":"Choose Subject",
-                "type":"Wireframe",
-                "url":"choose_subject.html"}]},
+            "url":"start_your_journey.html"},
 {
             "pageName":"Pretest Game",
             "type":"Wireframe",

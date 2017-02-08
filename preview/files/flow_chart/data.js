@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"flow_chart.html",
-  "generationDate":new Date(1486574936873.54),
+  "generationDate":new Date(1486577334445.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -196,8 +196,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/flow_chart/u8.png"},
-          "referencePageUrl":"choose_subject.html"},
+            "normal~":"images/flow_chart/u8.png"}},
 {
           "id":"ec13688bd55743c4a5006d8845d09da0",
           "label":"",

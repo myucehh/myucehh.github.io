@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"journey_game.html",
-  "generationDate":new Date(1486574936652.53),
+  "generationDate":new Date(1486577334039.06),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -43,6 +43,39 @@
 },
           "masterId":"2b6ac5b9061046788505a4ff7d7712cd"},
 {
+          "id":"082f6312e6fd4e0ea2f146dc5bcd4833",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":200,
+              "y":200},
+            "size":{
+              "width":1020,
+              "height":420}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"21e7ca4e5d3a4670aee5deae194d0601",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":200,
+                  "y":200},
+                "size":{
+                  "width":1020,
+                  "height":420}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/journey_game/u3.png"}},
+{
           "id":"2cb6c9108e8d49478a13afe137da08ba",
           "label":"",
           "type":"buttonShape",
@@ -50,11 +83,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":465,
-              "y":200},
+              "x":245,
+              "y":295},
             "size":{
-              "width":510,
-              "height":255}},
+              "width":105,
+              "height":220}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -66,15 +99,48 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":465,
-                  "y":200},
+                  "x":245,
+                  "y":295},
                 "size":{
-                  "width":510,
-                  "height":255}},
+                  "width":105,
+                  "height":220}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/pretest_game/u3.png"}}]}},
+            "normal~":"images/journey_game/u5.png"}},
+{
+          "id":"d18acfd6a9884bc294cef48eb9582111",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":609.5,
+              "y":113},
+            "size":{
+              "width":221,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7dfbefb1e4b04e048cf57fe060821f97",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":609.5,
+                  "y":113},
+                "size":{
+                  "width":221,
+                  "height":37}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
     "2b6ac5b9061046788505a4ff7d7712cd":{
       "packageId":"2b6ac5b9061046788505a4ff7d7712cd",
@@ -142,7 +208,15 @@
         "scriptId":"u1"},
       "e9120404df27457692f8d36c1af90987":{
         "scriptId":"u2"}},
-    "2cb6c9108e8d49478a13afe137da08ba":{
+    "082f6312e6fd4e0ea2f146dc5bcd4833":{
       "scriptId":"u3"},
+    "21e7ca4e5d3a4670aee5deae194d0601":{
+      "scriptId":"u4"},
+    "2cb6c9108e8d49478a13afe137da08ba":{
+      "scriptId":"u5"},
     "dd367c38420343c292a79e400021affc":{
-      "scriptId":"u4"}}});
+      "scriptId":"u6"},
+    "d18acfd6a9884bc294cef48eb9582111":{
+      "scriptId":"u7"},
+    "7dfbefb1e4b04e048cf57fe060821f97":{
+      "scriptId":"u8"}}});

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"test_confirm.html",
-  "generationDate":new Date(1486574936504.52),
+  "generationDate":new Date(1486577333777.94),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -50,11 +50,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":465,
-              "y":200},
+              "x":260,
+              "y":216},
             "size":{
-              "width":510,
-              "height":255}},
+              "width":240,
+              "height":514}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -66,15 +66,166 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":465,
-                  "y":200},
+                  "x":260,
+                  "y":216},
                 "size":{
-                  "width":510,
-                  "height":255}},
+                  "width":240,
+                  "height":514}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/pretest_game/u3.png"}}]}},
+            "normal~":"images/test_confirm/u3.png"}},
+{
+          "id":"6be78c4a8a1b4f198b240d2690986745",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":620,
+              "y":83},
+            "size":{
+              "width":157,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"57ef815a55f6468d863300aea9a296a0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":620,
+                  "y":83},
+                "size":{
+                  "width":157,
+                  "height":37}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"663a4c1d40eb4048a2ea8164c42f6c30",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"20px",
+            "location":{
+              "x":1020,
+              "y":401},
+            "size":{
+              "width":222,
+              "height":49},
+            "cornerRadiusTopLeft":"50"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a3c57cbf8b934075abbe97297516777f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"20px",
+                "location":{
+                  "x":1020,
+                  "y":401},
+                "size":{
+                  "width":222,
+                  "height":49},
+                "cornerRadiusTopLeft":"50"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open My Journey in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"my_journey.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/test_confirm/u7.png"}},
+{
+          "id":"aec9aa8aa8cc492d92f14efceed58a2a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":613,
+              "y":143},
+            "size":{
+              "width":168,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"81646deea22144afa9364a268606a4a3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":613,
+                  "y":143},
+                "size":{
+                  "width":168,
+                  "height":37}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"0a791ae499c847d5904f09a8d1327ffc",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":520,
+              "y":216},
+            "size":{
+              "width":478,
+              "height":514}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4e1baf42372a4e569b9ce920613a24e5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":520,
+                  "y":216},
+                "size":{
+                  "width":478,
+                  "height":514}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/test_confirm/u11.png"}}]}},
   "masters":{
     "2b6ac5b9061046788505a4ff7d7712cd":{
       "packageId":"2b6ac5b9061046788505a4ff7d7712cd",
@@ -145,4 +296,20 @@
     "23ca95d7c4b44e489405c4919ae49bf0":{
       "scriptId":"u3"},
     "bb0eec55f3e2453881e049f86d943d0b":{
-      "scriptId":"u4"}}});
+      "scriptId":"u4"},
+    "6be78c4a8a1b4f198b240d2690986745":{
+      "scriptId":"u5"},
+    "57ef815a55f6468d863300aea9a296a0":{
+      "scriptId":"u6"},
+    "663a4c1d40eb4048a2ea8164c42f6c30":{
+      "scriptId":"u7"},
+    "a3c57cbf8b934075abbe97297516777f":{
+      "scriptId":"u8"},
+    "aec9aa8aa8cc492d92f14efceed58a2a":{
+      "scriptId":"u9"},
+    "81646deea22144afa9364a268606a4a3":{
+      "scriptId":"u10"},
+    "0a791ae499c847d5904f09a8d1327ffc":{
+      "scriptId":"u11"},
+    "4e1baf42372a4e569b9ce920613a24e5":{
+      "scriptId":"u12"}}});
