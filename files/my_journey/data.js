@@ -1,0 +1,156 @@
+﻿$axure.loadCurrentPage({
+  "url":"my_journey.html",
+  "generationDate":new Date(1486574900545.52),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"ab95c4db48c04e11a893f026f4c1ee16",
+    "type":"Axure:Page",
+    "name":"My Journey",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"2d4fc115d685473bb483f5038fe20794",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":180,
+              "y":60}},
+          "adaptiveStyles":{
+},
+          "masterId":"2b6ac5b9061046788505a4ff7d7712cd"},
+{
+          "id":"d3b9b7a84b40480494b1282445ef8bc9",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":240,
+              "y":208},
+            "size":{
+              "width":995,
+              "height":482},
+            "rotation":"0",
+            "textRotation":"0",
+            "borderWidth":"0",
+            "cornerRadiusTopLeft":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b1cc416b2230435fab9b95f38c5d8319",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":240,
+                  "y":208},
+                "size":{
+                  "width":995,
+                  "height":482},
+                "rotation":"0",
+                "textRotation":"0",
+                "borderWidth":"0",
+                "cornerRadiusTopLeft":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/start_your_journey/u5.png"}}]}},
+  "masters":{
+    "2b6ac5b9061046788505a4ff7d7712cd":{
+      "packageId":"2b6ac5b9061046788505a4ff7d7712cd",
+      "type":"Axure:Master",
+      "name":"Main Window",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"Applied Font",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"e39fb40ab8ac46e491a33586e2ec04ca",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":170,
+                "y":30},
+              "size":{
+                "width":1080,
+                "height":690}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"e9120404df27457692f8d36c1af90987",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "location":{
+                    "x":170,
+                    "y":30},
+                  "size":{
+                    "width":1080,
+                    "height":690}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/home_and_login/u1.png"}}]}}},
+  "objectPaths":{
+    "2d4fc115d685473bb483f5038fe20794":{
+      "scriptId":"u0",
+      "e39fb40ab8ac46e491a33586e2ec04ca":{
+        "scriptId":"u1"},
+      "e9120404df27457692f8d36c1af90987":{
+        "scriptId":"u2"}},
+    "d3b9b7a84b40480494b1282445ef8bc9":{
+      "scriptId":"u3"},
+    "b1cc416b2230435fab9b95f38c5d8319":{
+      "scriptId":"u4"}}});
