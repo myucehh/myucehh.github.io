@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"assignment_game.html",
-  "generationDate":new Date(1486582114478.62),
+  "generationDate":new Date(1486582449923.3),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -116,8 +116,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":674,
-              "y":113},
+              "x":625.5,
+              "y":120},
             "size":{
               "width":189,
               "height":37}},
@@ -132,8 +132,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":674,
-                  "y":113},
+                  "x":625.5,
+                  "y":120},
                 "size":{
                   "width":189,
                   "height":37}},

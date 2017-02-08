@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"pretest_game_3.html",
-  "generationDate":new Date(1486582113635.14),
+  "generationDate":new Date(1486582449202.52),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -50,10 +50,10 @@
           "visible":true,
           "style":{
             "location":{
-              "x":590,
+              "x":565.5,
               "y":103},
             "size":{
-              "width":240,
+              "width":309,
               "height":37}},
           "adaptiveStyles":{
 },
@@ -66,10 +66,10 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":590,
+                  "x":565.5,
                   "y":103},
                 "size":{
-                  "width":240,
+                  "width":309,
                   "height":37}},
               "adaptiveStyles":{
 }}],

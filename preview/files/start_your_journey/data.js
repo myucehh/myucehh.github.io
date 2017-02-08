@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"start_your_journey.html",
-  "generationDate":new Date(1486582113082.1),
+  "generationDate":new Date(1486582448699.49),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
