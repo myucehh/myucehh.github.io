@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"start_your_journey.html",
-  "generationDate":new Date(1486577333520.92),
+  "generationDate":new Date(1486582113082.1),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -196,7 +196,187 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"becf170caca5472ab1625c40d427b503",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":440,
+              "y":250},
+            "size":{
+              "width":90,
+              "height":100}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Pretest Game in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"pretest_game.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"7d3e48dd86494b5f9f8d4fad41284d8f",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":700,
+              "y":350},
+            "size":{
+              "width":90,
+              "height":100}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Pretest Game in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"pretest_game.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"6740f6dcc21a4ef48fa106674a3c071a",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":970,
+              "y":300},
+            "size":{
+              "width":90,
+              "height":100}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Pretest Game in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"pretest_game.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"1ab358a9d49845eeb6d850a42040f8dd",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":970,
+              "y":540},
+            "size":{
+              "width":90,
+              "height":100}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Pretest Game in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"pretest_game.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"dbe61b7a27e7464e935647fe6793e443",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":552,
+              "y":520},
+            "size":{
+              "width":90,
+              "height":100}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Pretest Game in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"pretest_game.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"6df96f1e402f478abc724e8288619b73",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":360,
+              "y":390},
+            "size":{
+              "width":90,
+              "height":100}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Pretest Game in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"pretest_game.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
     "2b6ac5b9061046788505a4ff7d7712cd":{
       "packageId":"2b6ac5b9061046788505a4ff7d7712cd",
@@ -281,4 +461,16 @@
     "ffcb937249454c1ba099ce8bcf679e92":{
       "scriptId":"u10"},
     "1abb3813e4f64dd3af9b92fa6acd42e1":{
-      "scriptId":"u11"}}});
+      "scriptId":"u11"},
+    "becf170caca5472ab1625c40d427b503":{
+      "scriptId":"u12"},
+    "7d3e48dd86494b5f9f8d4fad41284d8f":{
+      "scriptId":"u13"},
+    "6740f6dcc21a4ef48fa106674a3c071a":{
+      "scriptId":"u14"},
+    "1ab358a9d49845eeb6d850a42040f8dd":{
+      "scriptId":"u15"},
+    "dbe61b7a27e7464e935647fe6793e443":{
+      "scriptId":"u16"},
+    "6df96f1e402f478abc724e8288619b73":{
+      "scriptId":"u17"}}});

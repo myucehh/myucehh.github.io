@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"journey_game.html",
-  "generationDate":new Date(1486577334039.06),
+  "generationDate":new Date(1486582114103.16),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -84,10 +84,10 @@
           "style":{
             "location":{
               "x":245,
-              "y":295},
+              "y":240},
             "size":{
               "width":105,
-              "height":220}},
+              "height":340}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -100,10 +100,10 @@
               "style":{
                 "location":{
                   "x":245,
-                  "y":295},
+                  "y":240},
                 "size":{
                   "width":105,
-                  "height":220}},
+                  "height":340}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -140,7 +140,57 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"bef0def0a77c4c34a9079a5b8f460a46",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1100,
+              "y":680},
+            "size":{
+              "width":100,
+              "height":30},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e64eb6e39a664922886f60541d7900e3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":1100,
+                  "y":680},
+                "size":{
+                  "width":100,
+                  "height":30},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open My Journey in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"my_journey.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/my_journey/u16.png"}}]}},
   "masters":{
     "2b6ac5b9061046788505a4ff7d7712cd":{
       "packageId":"2b6ac5b9061046788505a4ff7d7712cd",
@@ -219,4 +269,8 @@
     "d18acfd6a9884bc294cef48eb9582111":{
       "scriptId":"u7"},
     "7dfbefb1e4b04e048cf57fe060821f97":{
-      "scriptId":"u8"}}});
+      "scriptId":"u8"},
+    "bef0def0a77c4c34a9079a5b8f460a46":{
+      "scriptId":"u9"},
+    "e64eb6e39a664922886f60541d7900e3":{
+      "scriptId":"u10"}}});

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"assignments.html",
-  "generationDate":new Date(1486577334141.06),
+  "generationDate":new Date(1486582114313.61),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -43,22 +43,22 @@
 },
           "masterId":"2b6ac5b9061046788505a4ff7d7712cd"},
 {
-          "id":"e0d10dbf83b042aca387b1410383f756",
+          "id":"a681afeba5264f85afeab4d696a90ea0",
           "label":"",
           "type":"buttonShape",
-          "styleType":"buttonShape",
+          "styleType":"h1",
           "visible":true,
           "style":{
             "location":{
-              "x":465,
-              "y":200},
+              "x":665.5,
+              "y":130},
             "size":{
-              "width":510,
-              "height":255}},
+              "width":109,
+              "height":37}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"b2bd55b4df724b1982fdd36a6393a8ce",
+              "id":"91bbbc461af7415a800c88b7ec9f7066",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -66,15 +66,684 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":465,
-                  "y":200},
+                  "x":665.5,
+                  "y":130},
                 "size":{
-                  "width":510,
-                  "height":255}},
+                  "width":109,
+                  "height":37}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/assignments/u3.png"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"bbd28e19cf8a4b769e5e313099883792",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":490,
+              "y":255},
+            "size":{
+              "width":50,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"edf578100d33490493a04d41a239381e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":490,
+                  "y":255},
+                "size":{
+                  "width":50,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Assignment Game in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"assignment_game.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/pretest_game_2/u15.png"}},
+{
+          "id":"7ebd4445e41442f9b1c4dff883f8290f",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":627,
+              "y":255},
+            "size":{
+              "width":50,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dca18bf46a30465bbc036e5ccb7e89fa",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":627,
+                  "y":255},
+                "size":{
+                  "width":50,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Assignment Game in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"assignment_game.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/pretest_game_2/u15.png"}},
+{
+          "id":"009833aa78024eaebb89a460f8af14a5",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":763,
+              "y":255},
+            "size":{
+              "width":50,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ba9026b4713a4a66ae75a0c46ab763ed",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":763,
+                  "y":255},
+                "size":{
+                  "width":50,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Assignment Game in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"assignment_game.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/pretest_game_2/u15.png"}},
+{
+          "id":"477aa0a59f79417abf47008d82a36e00",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":900,
+              "y":255},
+            "size":{
+              "width":50,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fb276165aa384eaca954bf2f236f2fa9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":900,
+                  "y":255},
+                "size":{
+                  "width":50,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Assignment Game in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"assignment_game.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/pretest_game_2/u15.png"}},
+{
+          "id":"3e3d543c3af44c9d873e7952f09e2720",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":490,
+              "y":338},
+            "size":{
+              "width":50,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ce399f36817445958a86f50f752b1c4c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":490,
+                  "y":338},
+                "size":{
+                  "width":50,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/pretest_game_2/u15.png"}},
+{
+          "id":"a95dc2bd3f9344d28b7e48fd4c0e938f",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":627,
+              "y":338},
+            "size":{
+              "width":50,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3bb7f5b84a0648a9949a001094bff230",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":627,
+                  "y":338},
+                "size":{
+                  "width":50,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/pretest_game_2/u15.png"}},
+{
+          "id":"4d9795a594aa447c9ede6c705c9bb5a6",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "opacity":"0.4",
+            "location":{
+              "x":763,
+              "y":338},
+            "size":{
+              "width":50,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cf3a53aeab9c497e9bf93681c8277b17",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "opacity":"0.4",
+                "location":{
+                  "x":763,
+                  "y":338},
+                "size":{
+                  "width":50,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/pretest_game_2/u15.png"}},
+{
+          "id":"a1ee88738beb48b7839f360cc32131bd",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "opacity":"0.4",
+            "location":{
+              "x":900,
+              "y":338},
+            "size":{
+              "width":50,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"06e7369f2a1e4dceb3b7e044f5494e0f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "opacity":"0.4",
+                "location":{
+                  "x":900,
+                  "y":338},
+                "size":{
+                  "width":50,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/pretest_game_2/u15.png"}},
+{
+          "id":"0e58ddca35d3420493b318aee5193e83",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "opacity":"0.4",
+            "location":{
+              "x":490,
+              "y":422},
+            "size":{
+              "width":50,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"840a954b3d9946b2b7fc352c3e095348",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "opacity":"0.4",
+                "location":{
+                  "x":490,
+                  "y":422},
+                "size":{
+                  "width":50,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/pretest_game_2/u15.png"}},
+{
+          "id":"beaa19c15f004c8ea014225ee6f5149b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "opacity":"0.4",
+            "location":{
+              "x":627,
+              "y":422},
+            "size":{
+              "width":50,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9476fba406bf45a98c23e12bd22fed75",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "opacity":"0.4",
+                "location":{
+                  "x":627,
+                  "y":422},
+                "size":{
+                  "width":50,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/pretest_game_2/u15.png"}},
+{
+          "id":"7a241bef0de7456bbf020e3dfecfc64b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "opacity":"0.4",
+            "location":{
+              "x":763,
+              "y":422},
+            "size":{
+              "width":50,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"290eb09da2c94661b2fbee2d47e430d0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "opacity":"0.4",
+                "location":{
+                  "x":763,
+                  "y":422},
+                "size":{
+                  "width":50,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/pretest_game_2/u15.png"}},
+{
+          "id":"67b9a33c8d9446ee95dff9dd47e01852",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "opacity":"0.4",
+            "location":{
+              "x":900,
+              "y":422},
+            "size":{
+              "width":50,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0786bc098e48416ca65587d281946f64",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "opacity":"0.4",
+                "location":{
+                  "x":900,
+                  "y":422},
+                "size":{
+                  "width":50,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/pretest_game_2/u15.png"}},
+{
+          "id":"052d95bf36254737a70d877d0a842b8a",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "opacity":"0.4",
+            "location":{
+              "x":490,
+              "y":505},
+            "size":{
+              "width":50,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"73837dafcc3b45178976e8f948980fe5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "opacity":"0.4",
+                "location":{
+                  "x":490,
+                  "y":505},
+                "size":{
+                  "width":50,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/pretest_game_2/u15.png"}},
+{
+          "id":"f50c8e8e01c84635a07769a21e31daab",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "opacity":"0.4",
+            "location":{
+              "x":627,
+              "y":505},
+            "size":{
+              "width":50,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"54494eb030474d9e921f667bffd4a4d2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "opacity":"0.4",
+                "location":{
+                  "x":627,
+                  "y":505},
+                "size":{
+                  "width":50,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/pretest_game_2/u15.png"}},
+{
+          "id":"d35f6535473e41d9bd2ef3a0c4758651",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "opacity":"0.4",
+            "location":{
+              "x":763,
+              "y":505},
+            "size":{
+              "width":50,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ad2474bcf0294ece96c8299cea46a433",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "opacity":"0.4",
+                "location":{
+                  "x":763,
+                  "y":505},
+                "size":{
+                  "width":50,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/pretest_game_2/u15.png"}},
+{
+          "id":"ef285c84a36640ce9ca052e21326c0d1",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "opacity":"0.4",
+            "location":{
+              "x":900,
+              "y":505},
+            "size":{
+              "width":50,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c2e0645fc83f46509fe8816166a2f45b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "opacity":"0.4",
+                "location":{
+                  "x":900,
+                  "y":505},
+                "size":{
+                  "width":50,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/pretest_game_2/u15.png"}},
+{
+          "id":"01511c6edf37411182e03b74e4009b34",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":490,
+              "y":210},
+            "size":{
+              "width":100,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5ab2d90add2c47a686b4f5686a6b2cba",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":490,
+                  "y":210},
+                "size":{
+                  "width":100,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"8d5dd01ed5024abea193d2d4f9228bf7",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":460,
+              "y":236},
+            "size":{
+              "width":530,
+              "height":344}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Assignment Game in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"assignment_game.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
     "2b6ac5b9061046788505a4ff7d7712cd":{
       "packageId":"2b6ac5b9061046788505a4ff7d7712cd",
@@ -142,7 +811,77 @@
         "scriptId":"u1"},
       "e9120404df27457692f8d36c1af90987":{
         "scriptId":"u2"}},
-    "e0d10dbf83b042aca387b1410383f756":{
+    "a681afeba5264f85afeab4d696a90ea0":{
       "scriptId":"u3"},
-    "b2bd55b4df724b1982fdd36a6393a8ce":{
-      "scriptId":"u4"}}});
+    "91bbbc461af7415a800c88b7ec9f7066":{
+      "scriptId":"u4"},
+    "bbd28e19cf8a4b769e5e313099883792":{
+      "scriptId":"u5"},
+    "edf578100d33490493a04d41a239381e":{
+      "scriptId":"u6"},
+    "7ebd4445e41442f9b1c4dff883f8290f":{
+      "scriptId":"u7"},
+    "dca18bf46a30465bbc036e5ccb7e89fa":{
+      "scriptId":"u8"},
+    "009833aa78024eaebb89a460f8af14a5":{
+      "scriptId":"u9"},
+    "ba9026b4713a4a66ae75a0c46ab763ed":{
+      "scriptId":"u10"},
+    "477aa0a59f79417abf47008d82a36e00":{
+      "scriptId":"u11"},
+    "fb276165aa384eaca954bf2f236f2fa9":{
+      "scriptId":"u12"},
+    "3e3d543c3af44c9d873e7952f09e2720":{
+      "scriptId":"u13"},
+    "ce399f36817445958a86f50f752b1c4c":{
+      "scriptId":"u14"},
+    "a95dc2bd3f9344d28b7e48fd4c0e938f":{
+      "scriptId":"u15"},
+    "3bb7f5b84a0648a9949a001094bff230":{
+      "scriptId":"u16"},
+    "4d9795a594aa447c9ede6c705c9bb5a6":{
+      "scriptId":"u17"},
+    "cf3a53aeab9c497e9bf93681c8277b17":{
+      "scriptId":"u18"},
+    "a1ee88738beb48b7839f360cc32131bd":{
+      "scriptId":"u19"},
+    "06e7369f2a1e4dceb3b7e044f5494e0f":{
+      "scriptId":"u20"},
+    "0e58ddca35d3420493b318aee5193e83":{
+      "scriptId":"u21"},
+    "840a954b3d9946b2b7fc352c3e095348":{
+      "scriptId":"u22"},
+    "beaa19c15f004c8ea014225ee6f5149b":{
+      "scriptId":"u23"},
+    "9476fba406bf45a98c23e12bd22fed75":{
+      "scriptId":"u24"},
+    "7a241bef0de7456bbf020e3dfecfc64b":{
+      "scriptId":"u25"},
+    "290eb09da2c94661b2fbee2d47e430d0":{
+      "scriptId":"u26"},
+    "67b9a33c8d9446ee95dff9dd47e01852":{
+      "scriptId":"u27"},
+    "0786bc098e48416ca65587d281946f64":{
+      "scriptId":"u28"},
+    "052d95bf36254737a70d877d0a842b8a":{
+      "scriptId":"u29"},
+    "73837dafcc3b45178976e8f948980fe5":{
+      "scriptId":"u30"},
+    "f50c8e8e01c84635a07769a21e31daab":{
+      "scriptId":"u31"},
+    "54494eb030474d9e921f667bffd4a4d2":{
+      "scriptId":"u32"},
+    "d35f6535473e41d9bd2ef3a0c4758651":{
+      "scriptId":"u33"},
+    "ad2474bcf0294ece96c8299cea46a433":{
+      "scriptId":"u34"},
+    "ef285c84a36640ce9ca052e21326c0d1":{
+      "scriptId":"u35"},
+    "c2e0645fc83f46509fe8816166a2f45b":{
+      "scriptId":"u36"},
+    "01511c6edf37411182e03b74e4009b34":{
+      "scriptId":"u37"},
+    "5ab2d90add2c47a686b4f5686a6b2cba":{
+      "scriptId":"u38"},
+    "8d5dd01ed5024abea193d2d4f9228bf7":{
+      "scriptId":"u39"}}});

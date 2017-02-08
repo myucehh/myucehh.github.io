@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"my_journey.html",
-  "generationDate":new Date(1486577333878.94),
+  "generationDate":new Date(1486582113910.15),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -42,47 +42,6 @@
           "adaptiveStyles":{
 },
           "masterId":"2b6ac5b9061046788505a4ff7d7712cd"},
-{
-          "id":"d3b9b7a84b40480494b1282445ef8bc9",
-          "label":"",
-          "type":"imageBox",
-          "styleType":"imageBox",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":240,
-              "y":160},
-            "size":{
-              "width":995,
-              "height":530},
-            "rotation":"0",
-            "textRotation":"0",
-            "borderWidth":"0",
-            "cornerRadiusTopLeft":"0"},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"b1cc416b2230435fab9b95f38c5d8319",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":240,
-                  "y":160},
-                "size":{
-                  "width":995,
-                  "height":530},
-                "rotation":"0",
-                "textRotation":"0",
-                "borderWidth":"0",
-                "cornerRadiusTopLeft":"0"},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/start_your_journey/u5.png"}},
 {
           "id":"2acba5148471497e97be1a0229e6f6b4",
           "label":"",
@@ -148,7 +107,293 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"7244d1844a33460d8a3cc22c7c12266b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":230,
+              "y":150},
+            "size":{
+              "width":995,
+              "height":508},
+            "rotation":"0",
+            "textRotation":"0",
+            "borderWidth":"0",
+            "cornerRadiusTopLeft":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"33b35a7201384380a1e743dafbae59b4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":230,
+                  "y":150},
+                "size":{
+                  "width":995,
+                  "height":508},
+                "rotation":"0",
+                "textRotation":"0",
+                "borderWidth":"0",
+                "cornerRadiusTopLeft":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/start_your_journey/u5.png"}},
+{
+          "id":"403018e2817247249d8ed39ac624cdbf",
+          "label":"",
+          "type":"comboBox",
+          "styleType":"comboBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1043,
+              "y":658},
+            "size":{
+              "width":200,
+              "height":32}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"f2b42756b76243c89e824b54655fee06",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":448,
+              "y":194},
+            "size":{
+              "width":90,
+              "height":105}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Journey Game in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"journey_game.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"7f8ec97c5b494f8dbc04f0b5fc9a2b74",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":360,
+              "y":352.5},
+            "size":{
+              "width":90,
+              "height":105}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Journey Game in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"journey_game.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"1bdb14f027fa418d80261fab2f12e694",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":682.5,
+              "y":300},
+            "size":{
+              "width":90,
+              "height":105}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Journey Game in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"journey_game.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"3a70ef5223fe42d1ad35534f09f4ac54",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":570,
+              "y":495},
+            "size":{
+              "width":90,
+              "height":105}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Journey Game in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"journey_game.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"5e64626ae0b34caa9e02cd5805912a0f",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":950,
+              "y":495},
+            "size":{
+              "width":90,
+              "height":105}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Journey Game in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"journey_game.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"11745d10754d4b23a6145b21cd0da734",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":980,
+              "y":240},
+            "size":{
+              "width":90,
+              "height":105}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Journey Game in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"journey_game.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"de1d23cbb6b346b0b1331de3aba5f591",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":340,
+              "y":590},
+            "size":{
+              "width":100,
+              "height":30},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9111b56c78ae445495a36075213420b5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":340,
+                  "y":590},
+                "size":{
+                  "width":100,
+                  "height":30},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Assignments in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"assignments.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/my_journey/u16.png"}}]}},
   "masters":{
     "2b6ac5b9061046788505a4ff7d7712cd":{
       "packageId":"2b6ac5b9061046788505a4ff7d7712cd",
@@ -216,15 +461,33 @@
         "scriptId":"u1"},
       "e9120404df27457692f8d36c1af90987":{
         "scriptId":"u2"}},
-    "d3b9b7a84b40480494b1282445ef8bc9":{
-      "scriptId":"u3"},
-    "b1cc416b2230435fab9b95f38c5d8319":{
-      "scriptId":"u4"},
     "2acba5148471497e97be1a0229e6f6b4":{
-      "scriptId":"u5"},
+      "scriptId":"u3"},
     "2641be6467744409af269ad007179157":{
-      "scriptId":"u6"},
+      "scriptId":"u4"},
     "cbf74f97e7a943ff90c80bc076c87f53":{
-      "scriptId":"u7"},
+      "scriptId":"u5"},
     "7fb57efe82ff4a878a383f369e4f2c4c":{
-      "scriptId":"u8"}}});
+      "scriptId":"u6"},
+    "7244d1844a33460d8a3cc22c7c12266b":{
+      "scriptId":"u7"},
+    "33b35a7201384380a1e743dafbae59b4":{
+      "scriptId":"u8"},
+    "403018e2817247249d8ed39ac624cdbf":{
+      "scriptId":"u9"},
+    "f2b42756b76243c89e824b54655fee06":{
+      "scriptId":"u10"},
+    "7f8ec97c5b494f8dbc04f0b5fc9a2b74":{
+      "scriptId":"u11"},
+    "1bdb14f027fa418d80261fab2f12e694":{
+      "scriptId":"u12"},
+    "3a70ef5223fe42d1ad35534f09f4ac54":{
+      "scriptId":"u13"},
+    "5e64626ae0b34caa9e02cd5805912a0f":{
+      "scriptId":"u14"},
+    "11745d10754d4b23a6145b21cd0da734":{
+      "scriptId":"u15"},
+    "de1d23cbb6b346b0b1331de3aba5f591":{
+      "scriptId":"u16"},
+    "9111b56c78ae445495a36075213420b5":{
+      "scriptId":"u17"}}});

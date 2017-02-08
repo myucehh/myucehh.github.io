@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"pretest_game.html",
-  "generationDate":new Date(1486577333634.93),
+  "generationDate":new Date(1486582113214.11),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -50,11 +50,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":400,
-              "y":160},
+              "x":380,
+              "y":203},
             "size":{
-              "width":210,
-              "height":340}},
+              "width":140,
+              "height":227}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -66,11 +66,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":400,
-                  "y":160},
+                  "x":380,
+                  "y":203},
                 "size":{
-                  "width":210,
-                  "height":340}},
+                  "width":140,
+                  "height":227}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -83,10 +83,10 @@
           "visible":true,
           "style":{
             "location":{
-              "x":650,
-              "y":83},
+              "x":590,
+              "y":103},
             "size":{
-              "width":110,
+              "width":240,
               "height":37}},
           "adaptiveStyles":{
 },
@@ -99,10 +99,10 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":650,
-                  "y":83},
+                  "x":590,
+                  "y":103},
                 "size":{
-                  "width":110,
+                  "width":240,
                   "height":37}},
               "adaptiveStyles":{
 }}],
@@ -116,8 +116,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":410,
-              "y":556},
+              "x":539,
+              "y":260},
             "size":{
               "width":590,
               "height":64}},
@@ -132,11 +132,94 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":410,
-                  "y":556},
+                  "x":539,
+                  "y":260},
                 "size":{
                   "width":590,
                   "height":64}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"9917f71590694601b12f28f07cfcc43c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":980,
+              "y":360},
+            "size":{
+              "width":100,
+              "height":20},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"74cd33377a0849ce983a21bfa46daaef",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":980,
+                  "y":360},
+                "size":{
+                  "width":100,
+                  "height":20},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Pretest Game 2 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"pretest_game_2.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/pretest_game/u9.png"}},
+{
+          "id":"af884c3128f5444daa7ee1f34e908447",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":539,
+              "y":223},
+            "size":{
+              "width":701,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3ebfa0070e8a414380c11e1422f59032",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":539,
+                  "y":223},
+                "size":{
+                  "width":701,
+                  "height":37}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -219,4 +302,12 @@
     "3b40e93e4c8c4f388674c3025cb18b6c":{
       "scriptId":"u7"},
     "a350cbf4da8847dd8b68759af7d3bb71":{
-      "scriptId":"u8"}}});
+      "scriptId":"u8"},
+    "9917f71590694601b12f28f07cfcc43c":{
+      "scriptId":"u9"},
+    "74cd33377a0849ce983a21bfa46daaef":{
+      "scriptId":"u10"},
+    "af884c3128f5444daa7ee1f34e908447":{
+      "scriptId":"u11"},
+    "3ebfa0070e8a414380c11e1422f59032":{
+      "scriptId":"u12"}}});

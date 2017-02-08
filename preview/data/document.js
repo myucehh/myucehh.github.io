@@ -33,6 +33,14 @@
             "type":"Wireframe",
             "url":"pretest_game.html",
             "children":[{
+                "pageName":"Pretest Game 2",
+                "type":"Wireframe",
+                "url":"pretest_game_2.html"},
+{
+                "pageName":"Pretest Game 3",
+                "type":"Wireframe",
+                "url":"pretest_game_3.html"},
+{
                 "pageName":"Test Confirm",
                 "type":"Wireframe",
                 "url":"test_confirm.html"}]},
@@ -61,9 +69,9 @@
         "type":"Flow",
         "url":"data_flow.html"},
 {
-        "pageName":"Data Flow",
+        "pageName":"Flow Chart v2",
         "type":"Flow",
-        "url":"data_flow_1.html"}]},
+        "url":"flow_chart_v2.html"}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"assignment_game.html",
-  "generationDate":new Date(1486577334245.07),
+  "generationDate":new Date(1486582114478.62),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -30,7 +30,7 @@
 },
     "diagram":{
       "objects":[{
-          "id":"e7a85cac2e7c47829c3002964f76b5d6",
+          "id":"5fb302275134486487098da4a87e05c4",
           "label":"",
           "type":"referenceDiagramObject",
           "styleType":"referenceDiagramObject",
@@ -43,22 +43,22 @@
 },
           "masterId":"2b6ac5b9061046788505a4ff7d7712cd"},
 {
-          "id":"f9a30832519a4d87bdd0eb2af1375d87",
+          "id":"266d794f4f194579ac1630c68c0794af",
           "label":"",
           "type":"buttonShape",
           "styleType":"buttonShape",
           "visible":true,
           "style":{
             "location":{
-              "x":465,
+              "x":210,
               "y":200},
             "size":{
-              "width":510,
-              "height":255}},
+              "width":1020,
+              "height":420}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"5ae5cd3416b440b3ae0710a90d5cded4",
+              "id":"c36f6724b07844d786f47e8b855840b2",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -66,15 +66,131 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":465,
+                  "x":210,
                   "y":200},
                 "size":{
-                  "width":510,
-                  "height":255}},
+                  "width":1020,
+                  "height":420}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/assignments/u3.png"}}]}},
+            "normal~":"images/journey_game/u3.png"}},
+{
+          "id":"f5d37917af4549b3aedce269d38675ee",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":245,
+              "y":240},
+            "size":{
+              "width":105,
+              "height":340}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dd44908742e84ca18b16dac60bcae240",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":245,
+                  "y":240},
+                "size":{
+                  "width":105,
+                  "height":340}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/journey_game/u5.png"}},
+{
+          "id":"bd4cea110a634b4abe4520a0d13069b1",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":674,
+              "y":113},
+            "size":{
+              "width":189,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cfad7f3fb73b47268144c74697a22639",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":674,
+                  "y":113},
+                "size":{
+                  "width":189,
+                  "height":37}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"98e7e15ce30e4c71a650a418d29f39bb",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1100,
+              "y":680},
+            "size":{
+              "width":100,
+              "height":30},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0d32924a68d74498be7d9277d8bc9446",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":1100,
+                  "y":680},
+                "size":{
+                  "width":100,
+                  "height":30},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open My Journey in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"my_journey.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/my_journey/u16.png"}}]}},
   "masters":{
     "2b6ac5b9061046788505a4ff7d7712cd":{
       "packageId":"2b6ac5b9061046788505a4ff7d7712cd",
@@ -136,13 +252,25 @@
             "images":{
               "normal~":"images/home_and_login/u1.png"}}]}}},
   "objectPaths":{
-    "e7a85cac2e7c47829c3002964f76b5d6":{
+    "5fb302275134486487098da4a87e05c4":{
       "scriptId":"u0",
       "e39fb40ab8ac46e491a33586e2ec04ca":{
         "scriptId":"u1"},
       "e9120404df27457692f8d36c1af90987":{
         "scriptId":"u2"}},
-    "f9a30832519a4d87bdd0eb2af1375d87":{
+    "266d794f4f194579ac1630c68c0794af":{
       "scriptId":"u3"},
-    "5ae5cd3416b440b3ae0710a90d5cded4":{
-      "scriptId":"u4"}}});
+    "c36f6724b07844d786f47e8b855840b2":{
+      "scriptId":"u4"},
+    "f5d37917af4549b3aedce269d38675ee":{
+      "scriptId":"u5"},
+    "dd44908742e84ca18b16dac60bcae240":{
+      "scriptId":"u6"},
+    "bd4cea110a634b4abe4520a0d13069b1":{
+      "scriptId":"u7"},
+    "cfad7f3fb73b47268144c74697a22639":{
+      "scriptId":"u8"},
+    "98e7e15ce30e4c71a650a418d29f39bb":{
+      "scriptId":"u9"},
+    "0d32924a68d74498be7d9277d8bc9446":{
+      "scriptId":"u10"}}});

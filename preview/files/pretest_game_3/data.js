@@ -1,0 +1,350 @@
+﻿$axure.loadCurrentPage({
+  "url":"pretest_game_3.html",
+  "generationDate":new Date(1486582113635.14),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"07b39d882e1c46e6bd1468607f0f06c5",
+    "type":"Axure:Page",
+    "name":"Pretest Game 3",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"8ded3c21a51a40c680d435b00f6afb21",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":180,
+              "y":60}},
+          "adaptiveStyles":{
+},
+          "masterId":"2b6ac5b9061046788505a4ff7d7712cd"},
+{
+          "id":"b6db3e1467e54d35898d6ac254466064",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":590,
+              "y":103},
+            "size":{
+              "width":240,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5b6a292123fe44ecad13d78d3435e7de",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":590,
+                  "y":103},
+                "size":{
+                  "width":240,
+                  "height":37}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"76b1116d4c7548149370791caa201400",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":200,
+              "y":140},
+            "size":{
+              "width":1000,
+              "height":510}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8ae9375e9f0047d2b1fdf96eb162dbb7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":200,
+                  "y":140},
+                "size":{
+                  "width":1000,
+                  "height":510}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/pretest_game_2/u5.png"}},
+{
+          "id":"9917f71590694601b12f28f07cfcc43c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1030,
+              "y":610},
+            "size":{
+              "width":100,
+              "height":20},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"74cd33377a0849ce983a21bfa46daaef",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":1030,
+                  "y":610},
+                "size":{
+                  "width":100,
+                  "height":20},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Test Confirm in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"test_confirm.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/pretest_game/u9.png"}},
+{
+          "id":"7439d4f237f140a9ae944e035863999c",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":505,
+              "y":280},
+            "size":{
+              "width":115,
+              "height":260}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"50cffe1ee0974d47a80cdf2d58606586",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":505,
+                  "y":280},
+                "size":{
+                  "width":115,
+                  "height":260}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/pretest_game_2/u11.png"}},
+{
+          "id":"ee05d0c8b4f744aaa1668d86333bee5a",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":255,
+              "y":300},
+            "size":{
+              "width":115,
+              "height":260}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"65ff290f407044deb80ec79fdd762d0c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":255,
+                  "y":300},
+                "size":{
+                  "width":115,
+                  "height":260}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/pretest_game_2/u11.png"}},
+{
+          "id":"b3299fb3485e440abc0da9caeb737f64",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":650,
+              "y":250},
+            "size":{
+              "width":500,
+              "height":320}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"504d4adddb414fafb17f9fbfa8a7321f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":650,
+                  "y":250},
+                "size":{
+                  "width":500,
+                  "height":320}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/pretest_game_3/u13.png"}}]}},
+  "masters":{
+    "2b6ac5b9061046788505a4ff7d7712cd":{
+      "packageId":"2b6ac5b9061046788505a4ff7d7712cd",
+      "type":"Axure:Master",
+      "name":"Main Window",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"Applied Font",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"e39fb40ab8ac46e491a33586e2ec04ca",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":170,
+                "y":30},
+              "size":{
+                "width":1080,
+                "height":690}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"e9120404df27457692f8d36c1af90987",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "location":{
+                    "x":170,
+                    "y":30},
+                  "size":{
+                    "width":1080,
+                    "height":690}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/home_and_login/u1.png"}}]}}},
+  "objectPaths":{
+    "8ded3c21a51a40c680d435b00f6afb21":{
+      "scriptId":"u0",
+      "e39fb40ab8ac46e491a33586e2ec04ca":{
+        "scriptId":"u1"},
+      "e9120404df27457692f8d36c1af90987":{
+        "scriptId":"u2"}},
+    "b6db3e1467e54d35898d6ac254466064":{
+      "scriptId":"u3"},
+    "5b6a292123fe44ecad13d78d3435e7de":{
+      "scriptId":"u4"},
+    "76b1116d4c7548149370791caa201400":{
+      "scriptId":"u5"},
+    "8ae9375e9f0047d2b1fdf96eb162dbb7":{
+      "scriptId":"u6"},
+    "9917f71590694601b12f28f07cfcc43c":{
+      "scriptId":"u7"},
+    "74cd33377a0849ce983a21bfa46daaef":{
+      "scriptId":"u8"},
+    "7439d4f237f140a9ae944e035863999c":{
+      "scriptId":"u9"},
+    "50cffe1ee0974d47a80cdf2d58606586":{
+      "scriptId":"u10"},
+    "ee05d0c8b4f744aaa1668d86333bee5a":{
+      "scriptId":"u11"},
+    "65ff290f407044deb80ec79fdd762d0c":{
+      "scriptId":"u12"},
+    "b3299fb3485e440abc0da9caeb737f64":{
+      "scriptId":"u13"},
+    "504d4adddb414fafb17f9fbfa8a7321f":{
+      "scriptId":"u14"}}});
