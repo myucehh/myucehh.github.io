@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"journey_game.html",
-  "generationDate":new Date(1486582449609.2),
+  "generationDate":new Date(1486585393778.52),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -74,7 +74,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/journey_game/u3.png"}},
+            "normal~":"images/journey_game/u8.png"}},
 {
           "id":"2cb6c9108e8d49478a13afe137da08ba",
           "label":"",
@@ -107,7 +107,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/journey_game/u5.png"}},
+            "normal~":"images/journey_game/u10.png"}},
 {
           "id":"d18acfd6a9884bc294cef48eb9582111",
           "label":"",
@@ -190,7 +190,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/my_journey/u16.png"}}]}},
+            "normal~":"images/my_journey/u21.png"}}]}},
   "masters":{
     "2b6ac5b9061046788505a4ff7d7712cd":{
       "packageId":"2b6ac5b9061046788505a4ff7d7712cd",
@@ -250,27 +250,128 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/home_and_login/u1.png"}}]}}},
+              "normal~":"images/home_and_login/u1.png"}},
+{
+            "id":"0e65713a38ca4d4abe61065c1afa1ad1",
+            "label":"",
+            "type":"textBox",
+            "styleType":"textBox",
+            "visible":true,
+            "style":{
+              "fontName":"'Arial Italic', 'Arial'",
+              "fontStyle":"italic",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFF666666,
+                "opacity":1},
+              "location":{
+                "x":870,
+                "y":66},
+              "size":{
+                "width":360,
+                "height":19}},
+            "adaptiveStyles":{
+}},
+{
+            "id":"8fdf35130e8144c6a10d6ab82fa5b4f1",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":190,
+                "y":50},
+              "size":{
+                "width":50,
+                "height":50}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"b143faa4e96e4a7f9c4a50c3104b912a",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "location":{
+                    "x":190,
+                    "y":50},
+                  "size":{
+                    "width":50,
+                    "height":50}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/home_and_login/u4.png"}},
+{
+            "id":"3e64daa70e2448d19be66dce758bfd91",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"h1",
+            "visible":true,
+            "style":{
+              "fontName":"'Arial Italic', 'Arial'",
+              "fontStyle":"italic",
+              "location":{
+                "x":250,
+                "y":56},
+              "size":{
+                "width":106,
+                "height":37}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"1e45d092069047f1b03898a96050b2bf",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Arial Italic', 'Arial'",
+                  "fontStyle":"italic",
+                  "location":{
+                    "x":250,
+                    "y":56},
+                  "size":{
+                    "width":106,
+                    "height":37}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"resources/images/transparent.gif"}}]}}},
   "objectPaths":{
     "26c21784148549d1b3c947313f976e5e":{
       "scriptId":"u0",
       "e39fb40ab8ac46e491a33586e2ec04ca":{
         "scriptId":"u1"},
       "e9120404df27457692f8d36c1af90987":{
-        "scriptId":"u2"}},
+        "scriptId":"u2"},
+      "0e65713a38ca4d4abe61065c1afa1ad1":{
+        "scriptId":"u3"},
+      "8fdf35130e8144c6a10d6ab82fa5b4f1":{
+        "scriptId":"u4"},
+      "b143faa4e96e4a7f9c4a50c3104b912a":{
+        "scriptId":"u5"},
+      "3e64daa70e2448d19be66dce758bfd91":{
+        "scriptId":"u6"},
+      "1e45d092069047f1b03898a96050b2bf":{
+        "scriptId":"u7"}},
     "082f6312e6fd4e0ea2f146dc5bcd4833":{
-      "scriptId":"u3"},
-    "21e7ca4e5d3a4670aee5deae194d0601":{
-      "scriptId":"u4"},
-    "2cb6c9108e8d49478a13afe137da08ba":{
-      "scriptId":"u5"},
-    "dd367c38420343c292a79e400021affc":{
-      "scriptId":"u6"},
-    "d18acfd6a9884bc294cef48eb9582111":{
-      "scriptId":"u7"},
-    "7dfbefb1e4b04e048cf57fe060821f97":{
       "scriptId":"u8"},
-    "bef0def0a77c4c34a9079a5b8f460a46":{
+    "21e7ca4e5d3a4670aee5deae194d0601":{
       "scriptId":"u9"},
+    "2cb6c9108e8d49478a13afe137da08ba":{
+      "scriptId":"u10"},
+    "dd367c38420343c292a79e400021affc":{
+      "scriptId":"u11"},
+    "d18acfd6a9884bc294cef48eb9582111":{
+      "scriptId":"u12"},
+    "7dfbefb1e4b04e048cf57fe060821f97":{
+      "scriptId":"u13"},
+    "bef0def0a77c4c34a9079a5b8f460a46":{
+      "scriptId":"u14"},
     "e64eb6e39a664922886f60541d7900e3":{
-      "scriptId":"u10"}}});
+      "scriptId":"u15"}}});

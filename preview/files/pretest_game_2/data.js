@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"pretest_game_2.html",
-  "generationDate":new Date(1486582449015.5),
+  "generationDate":new Date(1486585393101.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -50,8 +50,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":590,
-              "y":103},
+              "x":600,
+              "y":163},
             "size":{
               "width":240,
               "height":37}},
@@ -66,8 +66,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":590,
-                  "y":103},
+                  "x":600,
+                  "y":163},
                 "size":{
                   "width":240,
                   "height":37}},
@@ -83,8 +83,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":200,
-              "y":140},
+              "x":220,
+              "y":210},
             "size":{
               "width":1000,
               "height":510}},
@@ -99,15 +99,15 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":200,
-                  "y":140},
+                  "x":220,
+                  "y":210},
                 "size":{
                   "width":1000,
                   "height":510}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/pretest_game_2/u5.png"}},
+            "normal~":"images/pretest_game_2/u10.png"}},
 {
           "id":"9917f71590694601b12f28f07cfcc43c",
           "label":"",
@@ -116,8 +116,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":1030,
-              "y":610},
+              "x":1040,
+              "y":680},
             "size":{
               "width":100,
               "height":20},
@@ -133,8 +133,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":1030,
-                  "y":610},
+                  "x":1040,
+                  "y":680},
                 "size":{
                   "width":100,
                   "height":20},
@@ -157,7 +157,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/pretest_game/u9.png"}},
+            "normal~":"images/pretest_game/u14.png"}},
 {
           "id":"bbb2f9d21cb24d8c9e427ed87d79e56f",
           "label":"",
@@ -166,8 +166,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":450,
-              "y":510},
+              "x":460,
+              "y":580},
             "size":{
               "width":680,
               "height":80}},
@@ -182,15 +182,15 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":450,
-                  "y":510},
+                  "x":460,
+                  "y":580},
                 "size":{
                   "width":680,
                   "height":80}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/pretest_game_2/u9.png"}},
+            "normal~":"images/pretest_game_2/u14.png"}},
 {
           "id":"7439d4f237f140a9ae944e035863999c",
           "label":"",
@@ -199,8 +199,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":775,
-              "y":240},
+              "x":785,
+              "y":310},
             "size":{
               "width":115,
               "height":260}},
@@ -215,15 +215,15 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":775,
-                  "y":240},
+                  "x":785,
+                  "y":310},
                 "size":{
                   "width":115,
                   "height":260}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/pretest_game_2/u11.png"}},
+            "normal~":"images/pretest_game_2/u16.png"}},
 {
           "id":"ee05d0c8b4f744aaa1668d86333bee5a",
           "label":"",
@@ -232,8 +232,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":255,
-              "y":300},
+              "x":265,
+              "y":370},
             "size":{
               "width":115,
               "height":260}},
@@ -248,15 +248,15 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":255,
-                  "y":300},
+                  "x":265,
+                  "y":370},
                 "size":{
                   "width":115,
                   "height":260}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/pretest_game_2/u11.png"}},
+            "normal~":"images/pretest_game_2/u16.png"}},
 {
           "id":"0c8c0fc98d724aae991d395d191a9856",
           "label":"",
@@ -265,8 +265,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":480,
-              "y":525},
+              "x":490,
+              "y":595},
             "size":{
               "width":50,
               "height":50}},
@@ -281,15 +281,15 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":480,
-                  "y":525},
+                  "x":490,
+                  "y":595},
                 "size":{
                   "width":50,
                   "height":50}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/pretest_game_2/u15.png"}},
+            "normal~":"images/home_and_login/u4.png"}},
 {
           "id":"e267182300354e1db1213566cdd08dda",
           "label":"",
@@ -298,8 +298,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":614,
-              "y":525},
+              "x":624,
+              "y":595},
             "size":{
               "width":50,
               "height":50}},
@@ -314,15 +314,15 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":614,
-                  "y":525},
+                  "x":624,
+                  "y":595},
                 "size":{
                   "width":50,
                   "height":50}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/pretest_game_2/u15.png"}},
+            "normal~":"images/home_and_login/u4.png"}},
 {
           "id":"130fefdd10054df78deb913a629e89b4",
           "label":"",
@@ -331,8 +331,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":747,
-              "y":525},
+              "x":757,
+              "y":595},
             "size":{
               "width":50,
               "height":50}},
@@ -347,15 +347,15 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":747,
-                  "y":525},
+                  "x":757,
+                  "y":595},
                 "size":{
                   "width":50,
                   "height":50}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/pretest_game_2/u15.png"}},
+            "normal~":"images/home_and_login/u4.png"}},
 {
           "id":"a7006c3cd37e41e5b6e3d764af4fb310",
           "label":"",
@@ -364,8 +364,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":881,
-              "y":525},
+              "x":891,
+              "y":595},
             "size":{
               "width":50,
               "height":50}},
@@ -380,15 +380,15 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":881,
-                  "y":525},
+                  "x":891,
+                  "y":595},
                 "size":{
                   "width":50,
                   "height":50}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/pretest_game_2/u15.png"}},
+            "normal~":"images/home_and_login/u4.png"}},
 {
           "id":"7aa9eee055c849ddb796b4cd9b1e6935",
           "label":"",
@@ -397,8 +397,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":1015,
-              "y":525},
+              "x":1025,
+              "y":595},
             "size":{
               "width":50,
               "height":50}},
@@ -413,15 +413,15 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":1015,
-                  "y":525},
+                  "x":1025,
+                  "y":595},
                 "size":{
                   "width":50,
                   "height":50}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/pretest_game_2/u15.png"}}]}},
+            "normal~":"images/home_and_login/u4.png"}}]}},
   "masters":{
     "2b6ac5b9061046788505a4ff7d7712cd":{
       "packageId":"2b6ac5b9061046788505a4ff7d7712cd",
@@ -481,55 +481,156 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/home_and_login/u1.png"}}]}}},
+              "normal~":"images/home_and_login/u1.png"}},
+{
+            "id":"0e65713a38ca4d4abe61065c1afa1ad1",
+            "label":"",
+            "type":"textBox",
+            "styleType":"textBox",
+            "visible":true,
+            "style":{
+              "fontName":"'Arial Italic', 'Arial'",
+              "fontStyle":"italic",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFF666666,
+                "opacity":1},
+              "location":{
+                "x":870,
+                "y":66},
+              "size":{
+                "width":360,
+                "height":19}},
+            "adaptiveStyles":{
+}},
+{
+            "id":"8fdf35130e8144c6a10d6ab82fa5b4f1",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":190,
+                "y":50},
+              "size":{
+                "width":50,
+                "height":50}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"b143faa4e96e4a7f9c4a50c3104b912a",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "location":{
+                    "x":190,
+                    "y":50},
+                  "size":{
+                    "width":50,
+                    "height":50}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/home_and_login/u4.png"}},
+{
+            "id":"3e64daa70e2448d19be66dce758bfd91",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"h1",
+            "visible":true,
+            "style":{
+              "fontName":"'Arial Italic', 'Arial'",
+              "fontStyle":"italic",
+              "location":{
+                "x":250,
+                "y":56},
+              "size":{
+                "width":106,
+                "height":37}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"1e45d092069047f1b03898a96050b2bf",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Arial Italic', 'Arial'",
+                  "fontStyle":"italic",
+                  "location":{
+                    "x":250,
+                    "y":56},
+                  "size":{
+                    "width":106,
+                    "height":37}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"resources/images/transparent.gif"}}]}}},
   "objectPaths":{
     "8ded3c21a51a40c680d435b00f6afb21":{
       "scriptId":"u0",
       "e39fb40ab8ac46e491a33586e2ec04ca":{
         "scriptId":"u1"},
       "e9120404df27457692f8d36c1af90987":{
-        "scriptId":"u2"}},
+        "scriptId":"u2"},
+      "0e65713a38ca4d4abe61065c1afa1ad1":{
+        "scriptId":"u3"},
+      "8fdf35130e8144c6a10d6ab82fa5b4f1":{
+        "scriptId":"u4"},
+      "b143faa4e96e4a7f9c4a50c3104b912a":{
+        "scriptId":"u5"},
+      "3e64daa70e2448d19be66dce758bfd91":{
+        "scriptId":"u6"},
+      "1e45d092069047f1b03898a96050b2bf":{
+        "scriptId":"u7"}},
     "b6db3e1467e54d35898d6ac254466064":{
-      "scriptId":"u3"},
-    "5b6a292123fe44ecad13d78d3435e7de":{
-      "scriptId":"u4"},
-    "76b1116d4c7548149370791caa201400":{
-      "scriptId":"u5"},
-    "8ae9375e9f0047d2b1fdf96eb162dbb7":{
-      "scriptId":"u6"},
-    "9917f71590694601b12f28f07cfcc43c":{
-      "scriptId":"u7"},
-    "74cd33377a0849ce983a21bfa46daaef":{
       "scriptId":"u8"},
-    "bbb2f9d21cb24d8c9e427ed87d79e56f":{
+    "5b6a292123fe44ecad13d78d3435e7de":{
       "scriptId":"u9"},
-    "2294355097f34f5a9c87bed9afc3ca67":{
+    "76b1116d4c7548149370791caa201400":{
       "scriptId":"u10"},
-    "7439d4f237f140a9ae944e035863999c":{
+    "8ae9375e9f0047d2b1fdf96eb162dbb7":{
       "scriptId":"u11"},
-    "50cffe1ee0974d47a80cdf2d58606586":{
+    "9917f71590694601b12f28f07cfcc43c":{
       "scriptId":"u12"},
-    "ee05d0c8b4f744aaa1668d86333bee5a":{
+    "74cd33377a0849ce983a21bfa46daaef":{
       "scriptId":"u13"},
-    "65ff290f407044deb80ec79fdd762d0c":{
+    "bbb2f9d21cb24d8c9e427ed87d79e56f":{
       "scriptId":"u14"},
-    "0c8c0fc98d724aae991d395d191a9856":{
+    "2294355097f34f5a9c87bed9afc3ca67":{
       "scriptId":"u15"},
-    "1349c7c9dbba4f4eb6494ecc599bc635":{
+    "7439d4f237f140a9ae944e035863999c":{
       "scriptId":"u16"},
-    "e267182300354e1db1213566cdd08dda":{
+    "50cffe1ee0974d47a80cdf2d58606586":{
       "scriptId":"u17"},
-    "5df56062b1a24535a5ef90ed13adeea2":{
+    "ee05d0c8b4f744aaa1668d86333bee5a":{
       "scriptId":"u18"},
-    "130fefdd10054df78deb913a629e89b4":{
+    "65ff290f407044deb80ec79fdd762d0c":{
       "scriptId":"u19"},
-    "39af48c8889f416f80d677707720b05c":{
+    "0c8c0fc98d724aae991d395d191a9856":{
       "scriptId":"u20"},
-    "a7006c3cd37e41e5b6e3d764af4fb310":{
+    "1349c7c9dbba4f4eb6494ecc599bc635":{
       "scriptId":"u21"},
-    "8bd9ba24b5044ebe87d828605de3da2b":{
+    "e267182300354e1db1213566cdd08dda":{
       "scriptId":"u22"},
-    "7aa9eee055c849ddb796b4cd9b1e6935":{
+    "5df56062b1a24535a5ef90ed13adeea2":{
       "scriptId":"u23"},
+    "130fefdd10054df78deb913a629e89b4":{
+      "scriptId":"u24"},
+    "39af48c8889f416f80d677707720b05c":{
+      "scriptId":"u25"},
+    "a7006c3cd37e41e5b6e3d764af4fb310":{
+      "scriptId":"u26"},
+    "8bd9ba24b5044ebe87d828605de3da2b":{
+      "scriptId":"u27"},
+    "7aa9eee055c849ddb796b4cd9b1e6935":{
+      "scriptId":"u28"},
     "d1a30e61190a46f8ab869f9bc6eb16fc":{
-      "scriptId":"u24"}}});
+      "scriptId":"u29"}}});

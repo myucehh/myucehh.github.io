@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"test_confirm.html",
-  "generationDate":new Date(1486582449338.52),
+  "generationDate":new Date(1486585393466.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -74,7 +74,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/test_confirm/u3.png"}},
+            "normal~":"images/test_confirm/u8.png"}},
 {
           "id":"6be78c4a8a1b4f198b240d2690986745",
           "label":"",
@@ -83,8 +83,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":620,
-              "y":83},
+              "x":617,
+              "y":149},
             "size":{
               "width":157,
               "height":37}},
@@ -99,8 +99,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":620,
-                  "y":83},
+                  "x":617,
+                  "y":149},
                 "size":{
                   "width":157,
                   "height":37}},
@@ -159,7 +159,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/test_confirm/u7.png"}},
+            "normal~":"images/test_confirm/u12.png"}},
 {
           "id":"aec9aa8aa8cc492d92f14efceed58a2a",
           "label":"",
@@ -169,7 +169,7 @@
           "style":{
             "location":{
               "x":613,
-              "y":143},
+              "y":179},
             "size":{
               "width":168,
               "height":37}},
@@ -185,7 +185,7 @@
               "style":{
                 "location":{
                   "x":613,
-                  "y":143},
+                  "y":179},
                 "size":{
                   "width":168,
                   "height":37}},
@@ -225,7 +225,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/test_confirm/u11.png"}}]}},
+            "normal~":"images/test_confirm/u16.png"}}]}},
   "masters":{
     "2b6ac5b9061046788505a4ff7d7712cd":{
       "packageId":"2b6ac5b9061046788505a4ff7d7712cd",
@@ -285,31 +285,132 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/home_and_login/u1.png"}}]}}},
+              "normal~":"images/home_and_login/u1.png"}},
+{
+            "id":"0e65713a38ca4d4abe61065c1afa1ad1",
+            "label":"",
+            "type":"textBox",
+            "styleType":"textBox",
+            "visible":true,
+            "style":{
+              "fontName":"'Arial Italic', 'Arial'",
+              "fontStyle":"italic",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFF666666,
+                "opacity":1},
+              "location":{
+                "x":870,
+                "y":66},
+              "size":{
+                "width":360,
+                "height":19}},
+            "adaptiveStyles":{
+}},
+{
+            "id":"8fdf35130e8144c6a10d6ab82fa5b4f1",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":190,
+                "y":50},
+              "size":{
+                "width":50,
+                "height":50}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"b143faa4e96e4a7f9c4a50c3104b912a",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "location":{
+                    "x":190,
+                    "y":50},
+                  "size":{
+                    "width":50,
+                    "height":50}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/home_and_login/u4.png"}},
+{
+            "id":"3e64daa70e2448d19be66dce758bfd91",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"h1",
+            "visible":true,
+            "style":{
+              "fontName":"'Arial Italic', 'Arial'",
+              "fontStyle":"italic",
+              "location":{
+                "x":250,
+                "y":56},
+              "size":{
+                "width":106,
+                "height":37}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"1e45d092069047f1b03898a96050b2bf",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Arial Italic', 'Arial'",
+                  "fontStyle":"italic",
+                  "location":{
+                    "x":250,
+                    "y":56},
+                  "size":{
+                    "width":106,
+                    "height":37}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"resources/images/transparent.gif"}}]}}},
   "objectPaths":{
     "9bda97e731c045cc9fe4fae097c2ee12":{
       "scriptId":"u0",
       "e39fb40ab8ac46e491a33586e2ec04ca":{
         "scriptId":"u1"},
       "e9120404df27457692f8d36c1af90987":{
-        "scriptId":"u2"}},
+        "scriptId":"u2"},
+      "0e65713a38ca4d4abe61065c1afa1ad1":{
+        "scriptId":"u3"},
+      "8fdf35130e8144c6a10d6ab82fa5b4f1":{
+        "scriptId":"u4"},
+      "b143faa4e96e4a7f9c4a50c3104b912a":{
+        "scriptId":"u5"},
+      "3e64daa70e2448d19be66dce758bfd91":{
+        "scriptId":"u6"},
+      "1e45d092069047f1b03898a96050b2bf":{
+        "scriptId":"u7"}},
     "23ca95d7c4b44e489405c4919ae49bf0":{
-      "scriptId":"u3"},
-    "bb0eec55f3e2453881e049f86d943d0b":{
-      "scriptId":"u4"},
-    "6be78c4a8a1b4f198b240d2690986745":{
-      "scriptId":"u5"},
-    "57ef815a55f6468d863300aea9a296a0":{
-      "scriptId":"u6"},
-    "663a4c1d40eb4048a2ea8164c42f6c30":{
-      "scriptId":"u7"},
-    "a3c57cbf8b934075abbe97297516777f":{
       "scriptId":"u8"},
-    "aec9aa8aa8cc492d92f14efceed58a2a":{
+    "bb0eec55f3e2453881e049f86d943d0b":{
       "scriptId":"u9"},
-    "81646deea22144afa9364a268606a4a3":{
+    "6be78c4a8a1b4f198b240d2690986745":{
       "scriptId":"u10"},
-    "0a791ae499c847d5904f09a8d1327ffc":{
+    "57ef815a55f6468d863300aea9a296a0":{
       "scriptId":"u11"},
+    "663a4c1d40eb4048a2ea8164c42f6c30":{
+      "scriptId":"u12"},
+    "a3c57cbf8b934075abbe97297516777f":{
+      "scriptId":"u13"},
+    "aec9aa8aa8cc492d92f14efceed58a2a":{
+      "scriptId":"u14"},
+    "81646deea22144afa9364a268606a4a3":{
+      "scriptId":"u15"},
+    "0a791ae499c847d5904f09a8d1327ffc":{
+      "scriptId":"u16"},
     "4e1baf42372a4e569b9ce920613a24e5":{
-      "scriptId":"u12"}}});
+      "scriptId":"u17"}}});
